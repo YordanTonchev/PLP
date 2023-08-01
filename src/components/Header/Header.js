@@ -9,9 +9,9 @@ export const Header = () =>{
       </div>
       <nav className={styles.nav}>
         <ul className={styles.navList}>
-          <li className={styles.navItem}><a className={styles.link} href="/">Shoes</a></li>
-          <li className={styles.navItem}><a className={styles.link} href="/about">Jewels</a></li>
-          <li className={styles.navItem}><a className={styles.link} href="/contact">Watches</a></li>
+          <li className={styles.navItem}><a className={styles.link} href="/">Rifles</a></li>
+          <li className={styles.navItem}><a className={styles.link} href="/about">Pistols</a></li>
+          <li className={styles.navItem}><a className={styles.link} href="/contact">Kinfes</a></li>
         </ul>
       </nav>
     </header>

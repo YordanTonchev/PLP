@@ -1,0 +1,10 @@
+.filter {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.filteroption {
+    margin-bottom: 10px;
+}
