@@ -1,4 +1,4 @@
-// Header.js
+
 import React from 'react';
 import styles from './Header.module.css'
 
@@ -16,13 +16,13 @@ const Header = ({ selectedCategory, onCategoryChange }) => {
       <nav>
         <ul>
           <li onClick={() => handleCategoryClick('Rifle')}>
-            Rilfe
+          RIFLES
           </li>
           <li onClick={() => handleCategoryClick('Pistol')}>
-            Pistol
+            PISTOLS
           </li>
-          <li onClick={() => handleCategoryClick('Knife')}>
-            Knife
+          <li onClick={() => handleCategoryClick('Spray')}>
+            SPRAYS
           </li>
           
         </ul>
