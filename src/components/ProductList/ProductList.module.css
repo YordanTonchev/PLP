@@ -22,6 +22,14 @@
     border: 1px solid #ddd;
     border-radius: 6px;
   }
+  @media (max-width: 768px) {
+    .producttile {
+      padding: 20px; 
+    }
+    .producttile img {
+      height: auto; 
+    }
+  }
   
   .ratings {
     font-size: 24px;
